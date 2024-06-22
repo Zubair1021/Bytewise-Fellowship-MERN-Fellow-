@@ -8,6 +8,10 @@ This is a React project.
 
 This project is built using React, a JavaScript library for building user interfaces. It demonstrates the capabilities and features of React, including component-based architecture, state management, and lifecycle methods.
 
+## Screenshot of React Job Application
+
+![SS of App](https://drive.google.com/file/d/1LzoyozAoGpB8c14JAXJDDNdD3eOHP--4/view?usp=sharing)
+
 ## Installation
 
 To install the project dependencies, run the following command:
