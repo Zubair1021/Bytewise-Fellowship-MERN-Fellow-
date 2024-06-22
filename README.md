@@ -7,10 +7,7 @@ This is a React project.
 ## Description
 
 This project is built using React, a JavaScript library for building user interfaces. It demonstrates the capabilities and features of React, including component-based architecture, state management, and lifecycle methods.
-
-## Screenshot of React Job Application
-
-![SS of App](https://drive.google.com/file/d/1LzoyozAoGpB8c14JAXJDDNdD3eOHP--4/view?usp=sharing)
+![image](https://github.com/Zubair1021/Bytewise-Fellowship-MERN-Fellow-/assets/121050120/99546b74-30f2-4067-b675-75b6fdfea5dc)
 
 ## Installation
 
