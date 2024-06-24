@@ -1,0 +1,33 @@
+/* Item.css */
+
+.item {
+    width: 250px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.item h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.item p {
+    margin-bottom: 15px;
+}
+
+.item button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.item button:hover {
+    background-color: #0056b3;
+}
