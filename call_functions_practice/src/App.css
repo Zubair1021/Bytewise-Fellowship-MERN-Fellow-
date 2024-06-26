@@ -1,0 +1,90 @@
+/* app.css */
+/* --------------------index.tsx code styling */
+
+*{
+  background-color:#7FFFD4
+}
+.tutorial button {
+  width: 150px; 
+  height: 50px; 
+  font-size: 18px; 
+  color: white; 
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0);
+  line-height: 50px; 
+  text-align: center;
+  transition: background-color 0.3s, box-shadow 0.3s;
+  margin-left: 150px;
+}
+
+.tutorial button:hover {
+  background-color: #0056b3; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5); 
+}
+.tutorial h1 {
+  margin-left: 150px;
+}
+.tutorial mainheading{
+  color: 
+}
+
+
+
+
+.tutorial2 button {
+  width: 150px; 
+  height: 50px; 
+  font-size: 18px; 
+  color: white; 
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0);
+  line-height: 50px; 
+  text-align: center;
+  transition: background-color 0.3s, box-shadow 0.3s;
+  margin-left: 150px;
+}
+
+.tutorial2 button:hover {
+  background-color: #0056b3; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5); 
+}
+
+.Seacrh-input input {
+  width: 50%; 
+  padding: 15px; 
+  margin: 5px 0;
+  display: inline-block; 
+  border: 1px solid black; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  font-size: 16px; 
+  transition: width 0.4s ease-in-out;
+  margin-left: 150px;
+}
+
+.tutorial2 li {
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  width: 60%;
+  list-style: none;
+  font-size: 18px;
+}
+
+.tutorial h2{
+  margin-left: 170px;
+  color: Red;
+}
+
+
+
+.tutorial2 h2{
+  margin-left: 170px;
+  color: #008B8B;
+}
