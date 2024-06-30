@@ -1,0 +1,20 @@
+
+*{
+  background-color: rgb(255,228,181);
+}
+.HOC h2{
+  margin-top: 50px;
+  color: rgb(72,61,139);
+}
+.Main h1{
+  color:rgb(255,0,255);
+  display:flex;
+  justify-content: center;
+}
+
+.sections{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-left:20px;
+}
