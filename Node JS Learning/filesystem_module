@@ -1,0 +1,37 @@
+///------------------Path Module-------------------///
+
+const fs = require('fs');
+
+// Function to Read data from file
+//The further statement in the file are executed and the Read data from file will shown if it completely Ready.futher execution of code will not wait for the file to be readed completely.
+
+// fs.readFile('Node js Notes.txt', 'utf8', (err, data) => {
+//     if (err) {
+//         console.log("The Data not read from file\n\n"+err);
+//     } else {
+//         console.log("The Data Readed from file successfully\n\n"+data);
+//     }
+// });
+
+
+//readfilesync is used to read the file completely and then the further execution of code will be done.
+
+// const data =fs.readFile('Node js Notes.txt', 'utf8', (err, data) => {
+//     if (err) {
+//         console.log("The Data not read from file\n\n"+err);
+//     } else {
+//         console.log("The Data Readed from file successfully\n\n"+data);
+//     }
+// });
+// console.log(data);
+
+// Writing data to file
+fs.writeFile('file.txt', 'This file is created by zubair.', (err) => {
+    if (err) {
+        console.log("The Data not written to file\n\n"+err);
+    } else {
+        console.log("The Data written to file successfully");
+    }
+});
+
+// fs.writeFileSync work same as fs.writeFile but it will write the data to file completely and then the further execution of code will be done.

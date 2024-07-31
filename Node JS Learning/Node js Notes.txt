@@ -1,0 +1,12 @@
+----------------------------Node Js Notes--------
+
+Node js is simply a way to run website on server.
+
+-npm stand for node package manager.
+-Intialized the project by using this command 'npm init'.
+-Install Express Package 'npm install express --save'. (No need of --save)
+-Install node module folders 'npm i' . It contains all the dependensies that can be used in project.
+-Dev-dependensies --The dependensies that can be used at the time of developement 'npm install --save-dev "Dependency name" '.
+
+usefull Node JS Learning Link: https://nodejs.org/en/learn/modules/anatomy-of-an-http-transaction
+provider: Digital Ocean
